@@ -123,4 +123,3 @@ LLVM and modern compiler infrastructure directly extend Allen's theoretical fram
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

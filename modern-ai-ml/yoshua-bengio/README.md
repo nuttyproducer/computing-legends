@@ -106,4 +106,3 @@ In short: Bengio didn't just help invent modern AI. He's trying to make sure it 
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

@@ -205,4 +205,3 @@ Beyond his technical contributions, Minsky was a singular personality — a poly
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

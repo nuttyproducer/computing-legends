@@ -137,4 +137,3 @@ The Turing Award citation recognized his "fundamental contributions to the defin
 ---
 
 **Last Updated:** 2026-03-03
-**Contributors:** AI-assisted research

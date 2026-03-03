@@ -119,4 +119,3 @@ C++ remains in the top 3-4 most used languages. C++11/14/17/20/23 modernized the
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

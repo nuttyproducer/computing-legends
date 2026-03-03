@@ -127,4 +127,3 @@ Linux IS modern computing infrastructure. Cloud computing, AI training, smartpho
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

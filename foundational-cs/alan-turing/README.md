@@ -246,4 +246,3 @@ Turing's paper **"The Chemical Basis of Morphogenesis"** (1952) proposed that bi
 ---
 
 **Last Updated:** 2026-03-03
-**Contributors:** AI-assisted research

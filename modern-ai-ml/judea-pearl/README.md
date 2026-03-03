@@ -125,4 +125,3 @@ His work is arguably the most important theoretical advance in AI that most ML p
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

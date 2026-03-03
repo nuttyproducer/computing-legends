@@ -168,4 +168,3 @@ Her legacy is literally woven into the fabric of every network you use. Every ti
 ---
 
 **Last Updated:** 2025-06-03  
-**Contributors:** AI-assisted research

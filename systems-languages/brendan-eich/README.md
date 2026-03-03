@@ -113,4 +113,3 @@ JavaScript/TypeScript is the most popular language on GitHub. NPM has over 2 mil
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

@@ -117,4 +117,3 @@ Java remains one of the top 3 most popular languages. Enterprise backend systems
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

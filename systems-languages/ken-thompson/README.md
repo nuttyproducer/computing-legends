@@ -136,4 +136,3 @@ Go is one of the fastest-growing languages. UTF-8 dominates the web. Linux (Unix
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

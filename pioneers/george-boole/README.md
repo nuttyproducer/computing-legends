@@ -174,4 +174,3 @@ Boole's magnum opus, which formalized the relationship between logic and mathema
 ---
 
 **Last Updated:** 2026-03-03
-**Contributors:** AI-assisted research

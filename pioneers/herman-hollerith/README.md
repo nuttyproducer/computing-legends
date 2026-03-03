@@ -173,4 +173,3 @@ While Hollerith wasn't known for memorable quotes, his machines spoke louder tha
 ---
 
 **Last Updated:** 2026-03-03
-**Contributors:** AI-assisted research

@@ -119,4 +119,3 @@ When people talk about "the infrastructure layer" of the Internet, they're talki
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

@@ -171,4 +171,3 @@ This was, conceptually, a Turing-complete computer designed over a century befor
 ---
 
 **Last Updated:** 2026-03-03
-**Contributors:** AI-assisted research

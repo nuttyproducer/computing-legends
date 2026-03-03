@@ -115,4 +115,3 @@ C remains one of the most widely used languages. Linux runs 96%+ of the world's 
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

@@ -118,4 +118,3 @@ Before Knuth, "how fast does this algorithm run?" was mostly answered with hand-
 ---
 
 **Last Updated:** 2026-03-03
-**Contributors:** AI-assisted research

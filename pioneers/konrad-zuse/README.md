@@ -209,4 +209,3 @@ Zuse didn't just build computers — he also thought about how to program them p
 ---
 
 **Last Updated:** 2026-03-03
-**Contributors:** AI-assisted research

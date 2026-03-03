@@ -221,4 +221,3 @@ McCarthy was that rare figure who was both a visionary and a builder — someone
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

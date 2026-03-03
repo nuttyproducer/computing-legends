@@ -100,4 +100,3 @@ Shannon wasn't just a genius — he was a *delightfully eccentric* genius:
 ---
 
 **Last Updated:** 2026-03-03
-**Contributors:** AI-assisted research

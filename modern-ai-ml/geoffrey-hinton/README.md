@@ -202,4 +202,3 @@ When they gave him the Turing Award in 2018, it felt overdue. When they gave him
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

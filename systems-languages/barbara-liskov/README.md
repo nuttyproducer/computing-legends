@@ -129,4 +129,3 @@ LSP is on every software engineering interview question list. PBFT concepts unde
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

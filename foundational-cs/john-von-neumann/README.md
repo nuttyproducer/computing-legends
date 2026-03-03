@@ -210,4 +210,3 @@ The sheer *breadth* of his contributions is staggering. Most scientists are thri
 ---
 
 **Last Updated:** 2026-03-03
-**Contributors:** AI-assisted research

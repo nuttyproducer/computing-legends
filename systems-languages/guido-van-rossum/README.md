@@ -124,4 +124,3 @@ Python is THE language of AI/ML. ChatGPT, DALL-E, and most modern AI tools are b
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

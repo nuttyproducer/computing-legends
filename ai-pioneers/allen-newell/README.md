@@ -255,4 +255,3 @@ If modern AI researchers sometimes forget Newell, it's only because his ideas ar
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

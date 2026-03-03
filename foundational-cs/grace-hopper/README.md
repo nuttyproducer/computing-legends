@@ -76,4 +76,3 @@ She didn't just coin a programming philosophy — she lived it. Grace was famous
 ---
 
 **Last Updated:** 2026-03-03
-**Contributors:** AI-assisted research

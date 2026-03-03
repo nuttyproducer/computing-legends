@@ -136,4 +136,3 @@ Either way, he'll definitely tweet about it.
 ---
 
 **Last Updated:** 2025-06-03  
-**Contributors:** AI-assisted research

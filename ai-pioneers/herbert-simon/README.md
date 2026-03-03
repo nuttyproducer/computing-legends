@@ -232,6 +232,5 @@ Herbert Simon's influence is almost comically broad. He is one of the very few p
 <div align="center">
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research
 
 </div>

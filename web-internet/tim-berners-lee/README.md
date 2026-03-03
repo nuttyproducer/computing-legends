@@ -193,4 +193,3 @@ And unlike many tech pioneers who cashed in and moved on, Berners-Lee has spent 
 ---
 
 **Last Updated:** 2025-06-03
-**Contributors:** AI-assisted research

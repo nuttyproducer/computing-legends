@@ -141,4 +141,3 @@ He's also still incredibly active and visible in the tech community well into hi
 ---
 
 **Last Updated:** 2025-06-03  
-**Contributors:** AI-assisted research

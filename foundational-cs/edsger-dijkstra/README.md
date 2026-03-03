@@ -120,4 +120,3 @@ Later in his career, Dijkstra pioneered the concept of self-stabilizing distribu
 ---
 
 **Last Updated:** 2026-03-03
-**Contributors:** AI-assisted research
