@@ -83,4 +83,4 @@ Suggestions and improvements are welcome!
 
 ## License
 
-CC0-1.0 (public domain dedication). See `LICENSE` if included.
+Dual licensed under CC0-1.0 (public domain dedication) and MIT License. See `LICENSE` files for details.
