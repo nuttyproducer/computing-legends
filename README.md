@@ -41,6 +41,8 @@ This repository is organized by domain and era:
 
 | Name              | Lifespan  | Key Contribution                        | Field                 |
 | ----------------- | --------- | --------------------------------------- | --------------------- |
+| John G. Kemeny    | 1926-1992 | BASIC, time-sharing                     | Programming Languages |
+| Thomas E. Kurtz   | b. 1928   | BASIC, time-sharing                     | Programming Languages |
 | Margaret Hamilton | b. 1936   | Apollo software, "software engineering" | Software Engineering  |
 | Dennis Ritchie    | 1941-2011 | C language, Unix                        | Operating Systems     |
 | Ken Thompson      | b. 1943   | Unix, C                                 | Operating Systems     |
